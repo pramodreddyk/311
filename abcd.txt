@@ -4,5 +4,11 @@ hakunama thata
 life would be happy
 
 lion king is comming
+<<<<<<< HEAD
 robo 2.0 is a awesome movie
 Christamas eve is comming my friend get ready to celebrate
+=======
+Hey pramod reddy k
+dcnjkmdcfg
+srghrykbrtu
+>>>>>>> 872e208ad725a632c7cf5a78982cb5c236d40088
